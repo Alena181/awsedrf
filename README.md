@@ -31,3 +31,9 @@
 
 ## Используемые библиотеки
 pandas, numpy, matplotlib, seaborn, scipy
+
+
+    ссылка на презентацию:  https://disk.yandex.ru/i/8fKEpy24AWKwDg
+    
+    ссылка на дашборд:
+    https://public.tableau.com/app/profile/alena7364/viz/Metanprombank_16876382399490/Dashboard2
