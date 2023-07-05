@@ -1,6 +1,5 @@
-# Банки — сегментация пользователей по потреблению продуктов 
+# [Банки — сегментация пользователей по потреблению продуктов](https://github.com/Alena181/segmention_of_customers_banks/blob/b29104bf45bf24c8f27ba8813706c7d251d7924e/11.%20segmention_of_customers_banks.ipynb)
 
-https://github.com/Alena181/segmention_of_customers_banks/blob/b29104bf45bf24c8f27ba8813706c7d251d7924e/11.%20segmention_of_customers_banks.ipynb
 ## Цель исследования
 Анализ и сегментация клиентов регионального банка по количеству потребляемых продуктов:
 
